@@ -17,7 +17,7 @@ public static class Product{
         int a=p.product(1,2);
         int b=p.product(1,2,3);
         double c=p.product(1.0,2.8);
-        System.out.println(a+b+c);
+        System.out.println(a+" "+b+" "+c);
     }
 }
 }
